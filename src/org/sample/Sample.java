@@ -10,8 +10,11 @@ public class Sample {
 		System.out.println(4);
 		System.out.println(5);
 		System.out.println(6);
+		System.out.println(10);
+		System.out.println(30);
 		System.out.println("Greens");
 		System.out.println("Technology");
+
 	}
 
 }
